@@ -5,10 +5,14 @@ verify_ssl = true
 
 [dev-packages]
 pylint = "*"
+jupyter = "*"
 
 [packages]
 flask = "*"
 flask-sqlalchemy = "*"
+tweepy = "*"
+python-dotenv = "*"
+spacy = "*"
 
 [requires]
 python_version = "3.7"
