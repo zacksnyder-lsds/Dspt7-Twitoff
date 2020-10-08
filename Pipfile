@@ -13,6 +13,8 @@ flask-sqlalchemy = "*"
 tweepy = "*"
 python-dotenv = "*"
 spacy = "*"
+gunicorn = "*"
+psycopg2-binary = "*"
 
 [requires]
 python_version = "3.7"
